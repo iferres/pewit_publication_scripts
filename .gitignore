@@ -12,5 +12,8 @@ Containers/phispy/allpvoghmms*
 Containers/*/*.sif
 !Containers/*/*.yml
 !Containers/*/*Singularity
+!Serratia
+!Serratia/*.R
+!Serratia/*.Singularity
 
 # etc...
