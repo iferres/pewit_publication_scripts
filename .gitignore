@@ -1,0 +1,16 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!analysis.R
+!metadata_01112021.tsv
+!Helper_scripts
+!Helper_scripts/*.R
+!Containers
+Containers/phispy/allpvoghmms*
+Containers/*/*.sif
+!Containers/*/*.yml
+!Containers/*/*Singularity
+
+# etc...
